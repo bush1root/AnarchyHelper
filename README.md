@@ -7,6 +7,7 @@ Tutorial: [Click](https://www.youtube.com/watch?v=oOZiIvsytEk) (in Russian)
 
 # ⚡ Features
 - [x] Easily to use
+- [x] Config system
 - [x] Forge support (1.16.5)
 - [x] Created with love :)
 
